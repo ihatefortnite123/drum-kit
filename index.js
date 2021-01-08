@@ -1,3 +1,6 @@
+
+alert("Press The Keys!);
+
 var numberOfDrumButtons = document.querySelectorAll(".drum").length;
 
 for (var i = 0; i < numberOfDrumButtons; i++) {
